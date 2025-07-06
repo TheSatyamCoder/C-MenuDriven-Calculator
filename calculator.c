@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Function Prototypes
+// Function Prototypes. 
 void add(float a, float b);
 void subtract(float a, float b);
 void multiply(float a, float b);
