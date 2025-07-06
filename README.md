@@ -12,4 +12,4 @@ A beginner-friendly, menu-driven calculator program in C with safe input validat
 2. Run the program and follow on-screen instructions
 
 ## 🖥️ Author
-Built by Tyler Rake - C/C++ to AI Tools Dev Journey 🚀
+Built by Satyam Yadav - C/C++ to AI Tools Dev Journey 🚀
