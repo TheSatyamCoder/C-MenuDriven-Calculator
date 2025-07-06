@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Function Prototypes. 
+// Function Prototypes 
 void add(float a, float b);
 void subtract(float a, float b);
 void multiply(float a, float b);
@@ -56,7 +56,7 @@ int main() {
     return 0;
 }
 
-// Function Definitions. 
+// Function Definitions 
 void add(float a, float b) { printf("Addition = %.2f\n", a + b); }
 void subtract(float a, float b) { printf("Subtraction = %.2f\n", a - b); }
 void multiply(float a, float b) { printf("Multiplication = %.2f\n", a * b); }
